@@ -3,6 +3,7 @@ package org.springframework.democache.model;
 import java.io.Serializable;
 /**
 * My comment for feature HAB_TEST
+* My comment for feature HAB_TEST2
 **/
 public class Parametres implements Serializable{
 	
