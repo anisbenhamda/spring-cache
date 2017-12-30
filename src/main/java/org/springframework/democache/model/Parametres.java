@@ -1,7 +1,9 @@
 package org.springframework.democache.model;
 
 import java.io.Serializable;
-
+/**
+* My comment for feature HAB_TEST
+**/
 public class Parametres implements Serializable{
 	
 	private Long param1;
