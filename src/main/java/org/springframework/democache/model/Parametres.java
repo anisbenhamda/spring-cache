@@ -4,6 +4,7 @@ import java.io.Serializable;
 /**
 * My comment for feature HAB_TEST
 * My comment for feature HAB_TEST2
+* My comment for feature RELEASE_0.1
 **/
 public class Parametres implements Serializable{
 	
